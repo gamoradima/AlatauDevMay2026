@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Яхты" />
+			<Item Name="Columns.UsrComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrDriveType.Caption" Value="Тип привода" />
+			<Item Name="Columns.UsrManager.Caption" Value="Менеджер" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrPassengersCount.Caption" Value="Кол-во пассажиров" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Цена в день, $" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Статус" />
+		</Items>
+	</Group>
+</Resources>
