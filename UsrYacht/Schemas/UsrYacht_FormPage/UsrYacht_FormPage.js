@@ -3,6 +3,26 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 		viewConfigDiff: /**SCHEMA_VIEW_CONFIG_DIFF*/[
 			{
 				"operation": "merge",
+				"name": "GeneralInfoTabContainer",
+				"values": {
+					"gap": {
+						"columnGap": "large",
+						"rowGap": "none"
+					},
+					"visible": true,
+					"padding": {
+						"top": "none",
+						"right": "none",
+						"bottom": "none",
+						"left": "none"
+					},
+					"color": "#96fd9417",
+					"borderRadius": "none",
+					"alignItems": "stretch"
+				}
+			},
+			{
+				"operation": "merge",
 				"name": "Feed",
 				"values": {
 					"dataSourceName": "PDS",

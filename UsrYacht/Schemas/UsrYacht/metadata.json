@@ -45,6 +45,10 @@
   "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
   "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
   "E6": true,
+  "E12": {
+    "FB1": 3,
+    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
+  },
   "E17": "UsrManagerId",
   "E18": "UsrManagerName"
 }
@@ -66,6 +70,10 @@
   "S4": "81268359-c587-45f3-8829-ade941148364",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "7595f204-a15e-45b6-8af2-2706ab3a6c4d"
+  },
   "E17": "UsrStatusId",
   "E18": "UsrStatusName"
 }
@@ -79,6 +87,10 @@
   "S4": "ab55e31f-2895-42a5-8abf-92053e717dfd",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "7cddad18-5614-453b-917d-865f7dab3d3f"
+  },
   "E17": "UsrDriveTypeId",
   "E18": "UsrDriveTypeName"
 }

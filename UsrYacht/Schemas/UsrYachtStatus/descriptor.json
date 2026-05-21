@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "81268359-c587-45f3-8829-ade941148364",
     "Name": "UsrYachtStatus",
-    "ModifiedOnUtc": "\/Date(1779361854000)\/",
+    "ModifiedOnUtc": "\/Date(1779367938000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
