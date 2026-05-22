@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница записи Яхты" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Нажми меня!" />
 			<Item Name="LocalizableStrings.addRecord_35t4wh3_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_9bevdsg_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_fulwy4f_caption.Value" Value="Добавить" />
