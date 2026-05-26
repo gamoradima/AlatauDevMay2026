@@ -3,13 +3,16 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Яхты" />
+			<Item Name="Columns.UsrCity.Caption" Value="Город" />
 			<Item Name="Columns.UsrComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Страна" />
 			<Item Name="Columns.UsrDriveType.Caption" Value="Тип привода" />
 			<Item Name="Columns.UsrManager.Caption" Value="Менеджер" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
 			<Item Name="Columns.UsrPassengersCount.Caption" Value="Кол-во пассажиров" />
 			<Item Name="Columns.UsrPrice.Caption" Value="Цена в день, $" />
 			<Item Name="Columns.UsrStatus.Caption" Value="Статус" />
+			<Item Name="Columns.UsrTicketPrice.Caption" Value="Цена билета, $" />
 			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
 		</Items>
 	</Group>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.1bf942bc-6806-5744-3258-868864f2fc8d.Caption" Value="Показать элементы: Цена билета, $" />
+			<Item Name="AddonConfig.Rules.58964245-9734-6bd9-746b-341bd290d2ca.Caption" Value="Скрыть элементы: Комментарий" />
+			<Item Name="Caption" Value="Страница записи Яхты (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>

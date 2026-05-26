@@ -3,9 +3,24 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница записи Яхты" />
+			<Item Name="LocalizableStrings.CategoryMultiSelect_label.Value" Value="Категории" />
+			<Item Name="LocalizableStrings.CategoryMultiSelect_placeholder.Value" Value="выберите категории яхты" />
+			<Item Name="LocalizableStrings.CategoryMultiSelect_tooltip.Value" Value="Здесь можно указать ряд категорий, которым соответствует выбранная яхта." />
+			<Item Name="LocalizableStrings.ExpansionPanel_cbimg79_title.Value" Value="Аренда яхты" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_zyiu61b_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_leiz8tk_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_j37bahs_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_1n9w1kk_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_sf7fzp9_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_hb2p2hi_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Email менеджера" />
+			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Количество пассажиров должно быть не меньше 2." />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Цена должна быть не меньше 100$." />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Нажми меня!" />
 			<Item Name="LocalizableStrings.addRecord_35t4wh3_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_8nt1c5s_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_9bevdsg_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_egwwx4a_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_fulwy4f_caption.Value" Value="Добавить" />
 		</Items>
 	</Group>

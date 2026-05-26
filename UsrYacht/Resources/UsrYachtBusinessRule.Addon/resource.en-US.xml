@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.2c8635a0-9892-13f1-c780-48ff94bc2266.Caption" Value="Установить значения: Цена билета, $" />
+			<Item Name="AddonConfig.Rules.4dae2391-14ad-e910-c0f2-39f9f27307e8.Caption" Value="ChildRule-ebea3986-d12e-3624-a73a-ee9ef8172381-PopulateValue" />
+			<Item Name="AddonConfig.Rules.5b6a725b-4a09-29a8-06b1-053f66ce16b3.Caption" Value="Установить статический фильтр: Менеджер" />
+			<Item Name="AddonConfig.Rules.84efcf5c-b3ca-2b4e-9c28-e924c4173fcb.Caption" Value="ChildRule-ebea3986-d12e-3624-a73a-ee9ef8172381-ClearValue" />
+			<Item Name="AddonConfig.Rules.ebea3986-d12e-3624-a73a-ee9ef8172381.Caption" Value="Применить фильтр: Город" />
+			<Item Name="Caption" Value="Яхты (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>
