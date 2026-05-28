@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "36051e10-725d-4b97-8ef7-79ab9aadaafd",
+    "Name": "UsrAvgTicketPricePage",
+    "ModifiedOnUtc": "\/Date(1779972035000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница вывода средней цены билета"
+  }
+}

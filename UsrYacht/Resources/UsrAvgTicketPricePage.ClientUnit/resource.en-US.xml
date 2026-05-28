@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница вывода средней цены билета" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Средняя цена билета" />
+			<Item Name="Parameters.90b91278-f931-415e-1b80-801e14278e7b.Caption" Value="Текст SQL" />
+			<Item Name="Parameters.bf8b3805-aae2-3582-cdf0-eb1d98928d9b.Caption" Value="Средняя цена билета, $" />
+		</Items>
+	</Group>
+</Resources>

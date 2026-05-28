@@ -14,9 +14,11 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_sf7fzp9_placeholder.Value" Value="Поиск" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_hb2p2hi_caption.Value" Value="Действия" />
 			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Email менеджера" />
+			<Item Name="LocalizableStrings.MyActionsButton_caption.Value" Value="Действия" />
 			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Количество пассажиров должно быть не меньше 2." />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Цена должна быть не меньше 100$." />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Нажми меня!" />
+			<Item Name="LocalizableStrings.RunAvgTicketPriceMenuItem_caption.Value" Value="Процесс расчета средней цены билета" />
 			<Item Name="LocalizableStrings.addRecord_35t4wh3_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_8nt1c5s_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_9bevdsg_caption.Value" Value="Добавить" />

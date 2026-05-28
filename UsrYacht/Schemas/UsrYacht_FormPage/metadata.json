@@ -134,6 +134,27 @@
   "A4": "b37f2d02-875d-4178-b82c-5ad563eff637",
   "A5": "d8d5e112-8665-46dc-b522-533b951b354e"
 }
++ MetaData.Schema.B2 {
+  "UId": "168f6e7a-1067-140e-eb6f-2a0b04c55abf",
+  "A2": "MyActionsButton_caption",
+  "A3": "b37f2d02-875d-4178-b82c-5ad563eff637",
+  "A4": "b37f2d02-875d-4178-b82c-5ad563eff637",
+  "A5": "d8d5e112-8665-46dc-b522-533b951b354e"
+}
++ MetaData.Schema.B2 {
+  "UId": "0ee17a0b-a146-5145-b467-55d76c071217",
+  "A2": "RunAvgTicketPriceMenuItem_clicked_params_notificationText",
+  "A3": "b37f2d02-875d-4178-b82c-5ad563eff637",
+  "A4": "b37f2d02-875d-4178-b82c-5ad563eff637",
+  "A5": "d8d5e112-8665-46dc-b522-533b951b354e"
+}
++ MetaData.Schema.B2 {
+  "UId": "91662106-5927-13ea-8d9d-3f5e1d955355",
+  "A2": "RunAvgTicketPriceMenuItem_caption",
+  "A3": "b37f2d02-875d-4178-b82c-5ad563eff637",
+  "A4": "b37f2d02-875d-4178-b82c-5ad563eff637",
+  "A5": "d8d5e112-8665-46dc-b522-533b951b354e"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "b37f2d02-875d-4178-b82c-5ad563eff637"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "b37f2d02-875d-4178-b82c-5ad563eff637"
 = MetaData.Schema.B2.["a53e6c9a-741a-21de-9293-9d87d6014595"].A4 "b37f2d02-875d-4178-b82c-5ad563eff637"
@@ -167,6 +188,9 @@
   "48ce1902-75f2-be66-69d2-8b6ced067302",
   "82348d85-acdd-08cc-8bc6-befea9a42819",
   "4cd3f4a2-f534-a660-d29f-0aa27dfa1a53",
+  "168f6e7a-1067-140e-eb6f-2a0b04c55abf",
+  "0ee17a0b-a146-5145-b467-55d76c071217",
+  "91662106-5927-13ea-8d9d-3f5e1d955355",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",
