@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a499b807-736e-42b4-881c-56bf1c15f544",
+    "Name": "UsrSearchCompanyDataPage",
+    "ModifiedOnUtc": "\/Date(1780320164000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница ввода данных поиска компании"
+  }
+}
